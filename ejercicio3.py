@@ -1,0 +1,8 @@
+num1 = int(input("introcuce el primer numero:"))
+num2 = int(input("introcuce el segundo numero: "))
+print("la suma es:", num1 + num2)
+print("la resta es:", num1 - num2)
+print("la multiplicacion es:", num1 * num2)
+print("la division es:", round(num1 / num2, 2))
+print("el exponente es:", num1 ** num2)
+print("la division entera es:", num1 // num2)
